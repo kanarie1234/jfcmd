@@ -1,0 +1,20 @@
+[
+  {
+    "category": "General",
+    "guid": "fff12345-dead-beef-aa6f-5d124e828ce1",
+    "name": "jfcmd",
+    "description": "jfcmd",
+    "owner": "kanarie1234",
+    "overview": "jfcmd",
+    "versions": [
+      {
+        "checksum": "c47199ed63519aa448408c2cd6c95029",
+        "changelog": "Initial release",
+        "targetAbi": "10.7.7.0",
+        "sourceUrl": "https://github.com/kanarie1234/jfcmd/releases/download/v1/jfcmd.zip",
+        "timestamp": "2024-12-27T11:09:38Z",
+        "version": "1.0.0.0"
+      }
+    ]
+  }
+]
